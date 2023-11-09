@@ -1,4 +1,3 @@
-# my_portfolio
 # Personal Portfolio 
 > https://sravanti2300.github.io
 
