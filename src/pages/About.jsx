@@ -52,7 +52,7 @@ Looking for an opportunity to work in a challenging position combining my skills
         <h3 className='subhead-text'>My Career Path</h3>
         <div className='mt-5 flex flex-col gap-3 text-white-500'>
           <p>
-            I've worked with Indian Start ups, leveling up my skills and
+            I've worked with Indian Startups, leveling up my skills and
             teaming up with smart people. Here's the rundown:
           </p>
         </div>

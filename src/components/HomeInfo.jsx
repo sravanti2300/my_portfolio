@@ -202,7 +202,7 @@ const Home = ({ currentStage }) => {
   </Link>
   <WhiteButton style={{ width: '200px', height: '40px', whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis', padding: '10px', verticalAlign: 'middle'  }}>
   <a aria-label="Open Sravanti's resume in a new tab" href="https://drive.google.com/file/d/1PNVwJcgacZvr7YQboBzSxWM46DZP8zxs/view?usp=sharing" target="_blank"
-        class="waves-effect waves-dark teal-text"><span>See My Resume</span></a> 
+        className="waves-effect waves-dark teal-text"><span>See My Resume</span></a> 
     </WhiteButton>
 </ButtonContainer>
 
