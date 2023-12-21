@@ -1,8 +1,8 @@
-import { Route, BrowserRouter as Router, Routes } from "react-router-dom";
+import { Route, HashRouter as Router, Routes } from "react-router-dom";
 import { Footer, Navbar } from "./components";
 import { About, Contact, Home, Projects } from "./pages";
 import styled from "styled-components";
-import { bg } from './assets/images'
+import { bg } from './assets/images';
 
 const AppContainer = styled.main`
   background: url(${bg}); /* Replace with the correct path to your image */

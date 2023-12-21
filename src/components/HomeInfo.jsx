@@ -187,7 +187,7 @@ const Home = ({ currentStage }) => {
           </Desc>
           <div className='flex gap-3'>
           {socialLinks.map((link) => (
-            <Link key={link.name} to={link.link}>
+            <Link key={link.name} to={link.link} target='_blank'>
               <img
                 src={link.iconUrl}
                 alt={link.name}
