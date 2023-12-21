@@ -226,7 +226,7 @@ export const projects = [
         theme: 'btn-back-orange', // Choose a suitable theme
         name: 'Café Management System',
         description: 'Developed a Java-based Café Management System applying Object-Oriented Design (OOD) principles. The system encompasses three main modules: Item Management, Cashier Operations, and Auditing. It allows users to manage the café menu, process customer orders, and maintain a detailed audit log of transactions.',
-        link: 'https://github.com/CSYE6200-Object-Oriented-DesignFall2023/final-project-final-group-1', // Replace with the actual project link
+        link: 'https://github.com/sravanti2300/Cafe-Management-System', // Replace with the actual project link
         technologies: ['Java', 'MySQL', 'JavaFX', 'Maven'],
         date: 'Nov 2022 - Present',
     },
