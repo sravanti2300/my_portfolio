@@ -13,6 +13,7 @@ import {
     linkedin,
     mongodb,
     nextjs,
+    pure,
     nodejs,
     react,
     sass,
@@ -117,6 +118,19 @@ export const skills = [
 
 export const experiences = [
 
+
+    {
+        title: "SDE Intern",
+        date: "May 2024 - Aug 2024",
+        icon: pure,
+        iconBg: "#a2d2ff",
+        company_name: "Pure Storage, Santa Clara, CA",
+        points: [
+            "As part of the Flash Array Files team, implemented Transport Layer Security for Network File Systems (NFS) in C++ and oversaw the entire SDLC, including design, performance analysis, stage three, and stress testing",
+            "Configured hardware offload of encryption using kernel TLS, reducing CPU usage over user space TLS by 30%",
+            "Improved latency by 400% through performance workload analysis of encryption mechanisms",
+        ],
+    },
     {
         title: "Northeastern University, Boston, MA",
         date: "Expected May 2025",
@@ -127,7 +141,9 @@ export const experiences = [
             "Database Design & Architecture",
             "Object Oriented Programming",
             "Program Structures & Algorithms",
-            "Enterprise Software Design"
+            "Cloud Computing and Network Architecture",
+            "Software Engineering",
+            "Design Patterns"
         ],
     },
     {

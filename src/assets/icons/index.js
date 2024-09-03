@@ -37,7 +37,7 @@ import JAVA from './java.jpg'
 import python from './python.png'
 import postgres from './postgres.png'
 import sql from './sql.jpg'
-
+import pure from './pure.jpg'
 
 
 
@@ -57,6 +57,7 @@ export {
     redux,
     sass,
     tailwindcss,
+    pure,
     typescript,
     linkedin,
     twitter,
