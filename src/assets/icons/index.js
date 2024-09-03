@@ -37,7 +37,7 @@ import JAVA from './java.jpg'
 import python from './python.png'
 import postgres from './postgres.png'
 import sql from './sql.jpg'
-import pure from './pure.jpg'
+import pure from './pure.png'
 
 
 
